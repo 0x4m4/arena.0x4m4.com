@@ -1,0 +1,217 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Orbitron', sans-serif;
+}
+
+body {
+    background-color: #000;
+    color: #00ff99;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    text-align: center;
+}
+
+.ascii-container {
+    transform: scale(0.4);
+    margin-bottom: -150px;
+    margin-top: -100px;
+    display: flex;
+    justify-content: center;
+}
+
+.ascii-art {
+    color: #ff00ff;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.8rem;
+    animation: fade-in 2s ease-in-out;
+}
+
+.glitch-container {
+    font-size: 4rem;
+    text-transform: uppercase;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.glitch {
+    position: relative;
+    color: #00ff99;
+    animation: glitch-animation 1.5s infinite;
+}
+
+.glitch::before,
+.glitch::after {
+    content: attr(data-text);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #00ff99;
+    clip: rect(0, 100vw, 0, 0);
+}
+
+.glitch::before {
+    left: 2px;
+    text-shadow: -2px 0 red;
+    animation: glitch-before 1.5s infinite;
+}
+
+.glitch::after {
+    left: -2px;
+    text-shadow: -2px 0 rgb(247, 0, 255);
+    animation: glitch-after 1.5s infinite;
+}
+
+@keyframes glitch-animation {
+    0% { transform: translate(0); }
+    20% { transform: translate(-1px, -2px); }
+    40% { transform: translate(-2px, 1px); }
+    60% { transform: translate(2px, 1px); }
+    80% { transform: translate(1px, -1px); }
+    100% { transform: translate(0); }
+}
+
+@keyframes glitch-before {
+    0% { clip: rect(0, 100vw, 0, 0); }
+    10% { clip: rect(10px, 100vw, 50px, 0); }
+    30% { clip: rect(50px, 100vw, 90px, 0); }
+    50% { clip: rect(90px, 100vw, 130px, 0); }
+    70% { clip: rect(130px, 100vw, 170px, 0); }
+    90% { clip: rect(170px, 100vw, 210px, 0); }
+    100% { clip: rect(210px, 100vw, 250px, 0); }
+}
+
+@keyframes glitch-after {
+    0% { clip: rect(0, 100vw, 0, 0); }
+    10% { clip: rect(10px, 100vw, 60px, 0); }
+    30% { clip: rect(60px, 100vw, 110px, 0); }
+    50% { clip: rect(110px, 100vw, 160px, 0); }
+    70% { clip: rect(160px, 100vw, 210px, 0); }
+    90% { clip: rect(210px, 100vw, 260px, 0); }
+    100% { clip: rect(260px, 100vw, 310px, 0); }
+}
+
+.hype-text {
+    font-size: 1.2rem;
+    color: #ffffff;
+    margin-top: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    animation: fade-in 2s ease-in-out;
+}
+
+.loading-dots {
+    margin-top: 10px;
+}
+
+.loading-dots span {
+    display: inline-block;
+    background-color: #00ff99;
+    width: 10px;
+    height: 10px;
+    margin: 0 5px;
+    border-radius: 50%;
+    animation: bounce 1.5s infinite ease-in-out;
+}
+
+.loading-dots span:nth-child(1) { animation-delay: 0s; }
+.loading-dots span:nth-child(2) { animation-delay: 0.2s; }
+.loading-dots span:nth-child(3) { animation-delay: 0.4s; }
+
+@keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+}
+
+@keyframes fade-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+/* Learn More Button */
+.learn-more-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 30px;
+    color: #00ff99;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 2px solid #00ff99;
+    font-size: 1.2rem;
+    transition: all 0.3s ease-in-out;
+    position: relative;
+    z-index: 1;
+}
+
+.learn-more-button:hover {
+    color: #000;
+    background-color: #00ff99;
+    box-shadow: 0 0 5px #00ff99, 0 0 10px #00ff99, 0 0 15px #00ff99;
+    transform: translateY(-3px);
+}
+
+.learn-more-button::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.1);
+    z-index: -1;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.learn-more-button:hover::before {
+    opacity: 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .ascii-container {
+        transform: scale(0.3);
+    }
+
+    .glitch-container {
+        font-size: 2rem;
+    }
+
+    .hype-text {
+        font-size: 1rem;
+    }
+
+    .learn-more-button {
+        font-size: 1rem;
+        padding: 8px 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    .ascii-container {
+        transform: scale(0.35);
+    }
+
+    .glitch-container {
+        font-size: 1.5rem;
+    }
+
+    .hype-text {
+        font-size: 0.8rem;
+    }
+
+    .learn-more-button {
+        font-size: 0.8rem;
+        padding: 6px 15px;
+    }
+}
