@@ -1,5 +1,3 @@
-# PWN
-
 PWN, derived from "own" or "pwn3d", refers to the act of exploiting a vulnerability to gain control over a system or program. It's a crucial skill in offensive security and involves a deep understanding of computer systems and programming.
 
 ## Key Concepts

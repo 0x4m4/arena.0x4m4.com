@@ -1,5 +1,3 @@
-# Reversing
-
 Reverse engineering is the process of analyzing a system or software to understand its internal structure, design, and functionality. In the context of cybersecurity, it's often used to understand malware, find vulnerabilities, or bypass security measures.
 
 ## Key Concepts

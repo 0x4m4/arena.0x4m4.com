@@ -1,5 +1,3 @@
-# Cryptography
-
 Cryptography is the practice and study of techniques for secure communication in the presence of adversaries. It's fundamental to computer and information security.
 
 ## Key Concepts
