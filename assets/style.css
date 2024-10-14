@@ -212,7 +212,7 @@ body {
     }
 
     .hype-text {
-        font-size: 0.8rem;
+        font-size: 0.4rem;
     }
 
     .learn-more-button {
@@ -223,15 +223,15 @@ body {
 /* Media query for small devices */
 @media only screen and (max-width: 600px) {
     .button-container {
-        flex-direction: column; /* Stack the buttons vertically on small screens */
-        width: 100%; /* Ensure the buttons stay within the viewport */
+        flex-direction: column; 
+        width: 100%; 
         margin: 0 auto;
     }
 
     .learn-more-button {
-        width: 90%; /* Adjust the button width */
-        margin: 10px auto; /* Center the buttons and add margin between them */
-        padding: 10px;
-        font-size: 1rem; /* Slightly smaller text on smaller screens */
+        width: 60%; 
+        margin: 1px auto; 
+        padding: 5px;
+        font-size: 1rem; 
     }
 }
