@@ -140,9 +140,14 @@ body {
 }
 
 /* Learn More Button */
-.learn-more-button {
-    display: inline-block;
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 15px; /* Adds space between the buttons */
     margin-top: 20px;
+}
+
+.learn-more-button {
     padding: 10px 30px;
     color: #00ff99;
     text-transform: uppercase;
