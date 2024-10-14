@@ -1,6 +1,3 @@
-
-# Attack and Defence Strategies in Cybersecurity
-
 ## Introduction
 
 Cybersecurity involves both attacking and defending systems. Understanding the techniques used by attackers allows defenders to build more robust security infrastructures. This guide explores both offensive (attack) and defensive (defense) strategies, including their role in CTF competitions.

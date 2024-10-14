@@ -1,6 +1,3 @@
-
-# Forensics - A Beginner's Guide
-
 ## Introduction to Digital Forensics
 
 Digital forensics involves the recovery and investigation of material found in digital devices, often in the context of cybercrime. This field plays a crucial role in identifying, preserving, analyzing, and presenting digital evidence in legal cases. Forensics is essential for investigating data breaches, malware infections, and other cyber incidents.

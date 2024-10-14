@@ -1,6 +1,3 @@
-
-# Steganography - A Beginner's Guide
-
 ## Introduction to Steganography
 
 Steganography is the practice of hiding information within other, non-secret data. The goal of steganography is to conceal the existence of the hidden message so that only the intended recipient knows it exists. This technique can be applied to various media, such as images, audio files, video files, and even text.

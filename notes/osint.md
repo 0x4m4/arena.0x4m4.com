@@ -1,6 +1,3 @@
-
-# OSINT - A Beginner's Guide
-
 ## Introduction to Open Source Intelligence (OSINT)
 
 Open Source Intelligence (OSINT) is the process of collecting and analyzing publicly available information to uncover valuable insights. OSINT plays a key role in cybersecurity, helping professionals gather intelligence on potential threats, track down malicious actors, and assess vulnerabilities by analyzing publicly accessible data.

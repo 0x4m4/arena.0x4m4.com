@@ -1,6 +1,3 @@
-
-# PWN - A Beginner's Guide to Exploitation
-
 ## Introduction to PWN
 
 PWN, derived from the word "own" or "pwn3d," refers to the act of exploiting vulnerabilities in a system or program to gain unauthorized control over it. This skill is crucial in offensive security, particularly in areas like penetration testing and Capture the Flag (CTF) competitions. Mastering PWN requires a deep understanding of computer systems, low-level programming, and memory management.
