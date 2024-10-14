@@ -84,3 +84,14 @@ To dive deeper into steganography, check out the following resources:
 - **Books**: "Digital Watermarking and Steganography" by Ingemar Cox et al.
 - **Online Courses**: Platforms like Udemy and Cybrary offer courses on steganography and digital forensics.
 - **Practice**: Platforms like TryHackMe and Hack The Box provide hands-on experience with real-world steganography challenges.
+
+
+## Sources:
+---
+
+- [TryHackMe | CC: Steganography](https://tryhackme.com/room/ccstego)
+- [TryHackMe | Cicada-3301 Vol:1](https://tryhackme.com/room/cicada3301vol1)
+- [TryHackMe | Musical Stego](https://tryhackme.com/room/musicalstego)
+- [TryHackMe | Madness](https://tryhackme.com/room/madness)
+- [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak)
+- [TryHackMe | Unstable Twin](https://tryhackme.com/room/unstabletwin)

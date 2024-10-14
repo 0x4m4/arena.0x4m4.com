@@ -1,6 +1,3 @@
-
-# Cryptography - A Beginner's Guide
-
 ## Introduction to Cryptography
 
 Cryptography is the practice and study of techniques for secure communication in the presence of adversaries. It is fundamental to computer and information security, playing a critical role in protecting sensitive data, ensuring privacy, and enabling secure transactions in our digital world.
@@ -101,4 +98,15 @@ To dive deeper into cryptography, consider these resources:
 - **Books**: "Cryptography and Network Security" by William Stallings, "Applied Cryptography" by Bruce Schneier.
 - **Courses**: Online platforms like Coursera, edX, and Udemy offer cryptography courses.
 - **Practice**: Use tools like Cryptool and OpenSSL to practice encryption and decryption.
+
+## THM Paths:
+## Crypto & Hashes
+
+---
+
+- [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
+- [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
+- [TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
+- [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf)
+- [TryHackMe | Brute It](https://tryhackme.com/room/bruteit)
 

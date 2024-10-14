@@ -96,3 +96,27 @@ To further enhance your digital forensics skills, here are some useful resources
 - **Books**: "Digital Forensics with Open Source Tools" by Cory Altheide and Harlan Carvey.
 - **Online Courses**: Udemy and Coursera offer courses on digital forensics, incident response, and memory analysis.
 - **Practice**: Use platforms like TryHackMe and Hack The Box to practice digital forensics in real-world scenarios.
+
+
+## THM Paths:
+## Forensics
+
+---
+
+- [TryHackMe | Linux Server Forensics](https://tryhackme.com/room/linuxserverforensics)
+- [TryHackMe | Forensics](https://tryhackme.com/room/forensics)
+- [TryHackMe | Memory Forensics](https://tryhackme.com/room/memoryforensics)
+- [TryHackMe | Volatility](https://tryhackme.com/room/bpvolatility)
+- [TryHackMe | Disk Analysis & Autopsy](https://tryhackme.com/room/autopsy2ze0)
+
+## Malware Analysis
+
+---
+
+- [TryHackMe | History of Malware](https://tryhackme.com/room/historyofmalware)
+- [TryHackMe | MAL: Malware Introductory](https://tryhackme.com/room/malmalintroductory)
+- [TryHackMe | Basic Malware RE](https://tryhackme.com/room/basicmalwarere)
+- [TryHackMe | MAL: Researching](https://tryhackme.com/room/malresearching)
+- [TryHackMe | Mobile Malware Analysis](https://tryhackme.com/room/mma)
+- [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
+- [TryHackMe | Dunkle Materie](https://tryhackme.com/room/dunklematerieptxc9)

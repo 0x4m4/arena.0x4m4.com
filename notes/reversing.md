@@ -96,3 +96,20 @@ Here are some resources to help you master reverse engineering:
 - **Books**: "Practical Reverse Engineering" by Bruce Dang, "Reversing: Secrets of Reverse Engineering" by Eldad Eilam.
 - **Online Courses**: Platforms like Cybrary, Udemy, and Coursera offer courses in reverse engineering and malware analysis.
 - **Practice**: Use platforms like Hack The Box and TryHackMe to practice reverse engineering in real-world scenarios.
+
+## THM Paths:
+## Reverse Engineering
+
+---
+
+- [TryHackMe | Intro to x86-64](https://tryhackme.com/room/introtox8664)
+- [TryHackMe | Windows x64 Assembly](https://tryhackme.com/room/win64assembly)
+- [TryHackMe | Reverse Engineering](https://tryhackme.com/room/reverseengineering)
+- [TryHackMe | Reversing ELF](https://tryhackme.com/room/reverselfiles)
+- [TryHackMe | JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering)
+- https://tryhackme.com/room/ccradare
+- [TryHackMe | CC: Radare2](https://tryhackme.com/room/ccradare2)
+- [TryHackMe | CC: Ghidra](https://tryhackme.com/room/ccghidra)
+- [TryHackMe | Aster](https://tryhackme.com/room/aster)
+- [TryHackMe | Classic Passwd](https://tryhackme.com/room/classicpasswd)
+- [TryHackMe | REloaded](https://tryhackme.com/room/reloaded)

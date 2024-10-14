@@ -104,3 +104,33 @@ To further enhance your PWN skills, here are some great resources:
 - **Courses**: Websites like Cybrary, Udemy, and Coursera offer courses in binary exploitation and ethical hacking.
 - **Practice Platforms**: CTF platforms like Hack The Box, TryHackMe, and OverTheWire offer opportunities to practice your skills in a safe, legal environment.
 
+## Pwn College:
+- [Pwn.College](https://pwn.college/)
+
+## THM Paths:
+## PrivEsc
+
+---
+
+- [TryHackMe | Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
+- [TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
+- [TryHackMe | Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)
+- [TryHackMe | Windows PrivEsc](https://tryhackme.com/room/windows10privesc)
+- [TryHackMe | Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
+- [TryHackMe | Linux Agency](https://tryhackme.com/room/linuxagency)
+- [TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
+- [TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
+- [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
+- [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
+- [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
+- [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
+- [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
+
+## BufferOverflow
+
+---
+
+- [TryHackMe | Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)
+- [TryHackMe | Gatekeeper](https://tryhackme.com/room/gatekeeper)
+- [TryHackMe | Chronicle](https://tryhackme.com/room/chronicle)
+- [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)

@@ -92,3 +92,96 @@ Here are some resources to help you develop a broader skill set:
 - **Books**: "The Art of Network Forensics" by Sherri Davidoff, "Python for Cybersecurity" by Howard E. Poston III.
 - **Online Courses**: Platforms like Udemy, Coursera, and Cybrary offer courses on scripting, networking, and cybersecurity basics.
 - **Practice**: Use platforms like TryHackMe and Hack The Box to practice miscellaneous cybersecurity skills in real-world scenarios.
+
+## THM Paths:
+## Android
+
+---
+
+- [TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
+
+## Recon
+
+---
+
+- [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
+- [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
+- [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
+- [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
+- [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
+- [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
+- [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
+- [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
+- [TryHackMe | Red Team Recon](https://tryhackme.com/room/redteamrecon)
+- [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
+
+## Scripting
+
+---
+
+- [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
+- [TryHackMe | Python Playground](https://tryhackme.com/room/pythonplayground)
+- [TryHackMe | Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
+- [TryHackMe | Peak Hill](https://tryhackme.com/room/peakhill)
+- [TryHackMe | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
+- [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
+- [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
+- [TryHackMe | Why Subscribe](https://tryhackme.com/room/yara)
+
+## Networking
+
+---
+
+- [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
+- [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
+- [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
+- [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
+- [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
+- [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
+- [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
+
+## Wi-Fi Hacking
+
+---
+
+- [TryHackMe | Wifi Hacking 101](https://tryhackme.com/room/wifihacking101)
+
+## Misc
+
+---
+
+- [TryHackMe | Introduction to Django](https://tryhackme.com/room/django)
+- [TryHackMe | Git Happens](https://tryhackme.com/room/githappens)
+- [TryHackMe | Meltdown Explained](https://tryhackme.com/room/meltdownexplained)
+- [TryHackMe | Splunk](https://tryhackme.com/room/bpsplunk)
+- [TryHackMe | Linux Backdoors](https://tryhackme.com/room/linuxbackdoors)
+- [TryHackMe | Jupyter 101](https://tryhackme.com/room/jupyter101)
+- [TryHackMe | Geolocating Images](https://tryhackme.com/room/geolocatingimages)
+- [TryHackMe | Tor](https://tryhackme.com/room/torforbeginners)
+- [TryHackMe | tomghost](https://tryhackme.com/room/tomghost)
+- [TryHackMe | DLL HIJACKING](https://tryhackme.com/room/dllhijacking)
+- [TryHackMe | Intro to IoT Pentesting](https://tryhackme.com/room/iotintro)
+- [TryHackMe | Attacking ICS Plant #1](https://tryhackme.com/room/attackingics1)
+- [TryHackMe | Attacking ICS Plant #2](https://tryhackme.com/room/attackingics2)
+- [TryHackMe | Printer Hacking 101](https://tryhackme.com/room/printerhacking101)
+- [TryHackMe | DNS Manipulation](https://tryhackme.com/room/dnsmanipulation)
+- [TryHackMe | Introduction to Flask](https://tryhackme.com/room/flask)
+- [TryHackMe | MITRE](https://tryhackme.com/room/mitre)
+- [TryHackMe | magician](https://tryhackme.com/room/magician)
+- [TryHackMe | JPGChat](https://tryhackme.com/room/jpgchat)
+- [TryHackMe | Baron Samedit](https://tryhackme.com/room/sudovulnssamedit)
+- [TryHackMe | CVE-2021-41773/42013](https://tryhackme.com/room/cve202141773)
+- [TryHackMe | Binary Heaven](https://tryhackme.com/room/binaryheaven)
+- [TryHackMe | Git and Crumpets](https://tryhackme.com/room/gitandcrumpets)
+- [TryHackMe | Polkit: CVE-2021-3560](https://tryhackme.com/room/polkit)
+- [TryHackMe | Hip Flask](https://tryhackme.com/room/hipflask)
+- [TryHackMe | Bypass Disable Functions](https://tryhackme.com/room/bypassdisablefunctions)
+- [TryHackMe | Wordpress: CVE-2021-29447](https://tryhackme.com/room/wordpresscve202129447)
+- [TryHackMe | Linux Function Hooking](https://tryhackme.com/room/linuxfunctionhooking)
+- [TryHackMe | REvil Corp](https://tryhackme.com/room/revilcorp)
+- [TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
+- [TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
+- [TryHackMe | Solar, exploiting log4j](https://tryhackme.com/room/solar)
+- [TryHackMe | Conti](https://tryhackme.com/room/contiransomwarehgh)
+- [TryHackMe | Dirty Pipe: CVE-2022-0847](https://tryhackme.com/room/dirtypipe)
+- [TryHackMe | The find command](https://tryhackme.com/room/thefindcommand)

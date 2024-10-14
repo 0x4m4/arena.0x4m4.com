@@ -90,3 +90,27 @@ To deepen your understanding of OSINT, check out these resources:
 - **Books**: "Open Source Intelligence Techniques" by Michael Bazzell is an excellent resource for learning how to gather and analyze publicly available information.
 - **Online Platforms**: OSINT framework websites offer curated lists of tools and techniques for gathering open source intelligence.
 - **Practice**: Use platforms like TryHackMe and Hack The Box to practice your OSINT skills in real-world scenarios.
+
+## Sources:
+
+---
+
+- [TryHackMe | Open-Source Intelligence](https://tryhackme.com/room/osint)
+- [TryHackMe | OSINT Tools](https://tryhackme.com/room/osinttools)
+- [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
+- [TryHackMe | OSINT Challenge](https://tryhackme.com/room/osintchallenge)
+- [Cyber Crime Academy | OSINT Techniques](https://cybercrimeacademy.org/courses/osint)
+- [IntelTechniques | OSINT Tools & Training](https://inteltechniques.com/)
+- [OSINT Framework | OSINT Tools](https://osintframework.com/)
+- [Sans Institute | Open-Source Intelligence (OSINT) Training](https://www.sans.org/cyber-security-courses/open-source-intelligence-gathering/)
+- [The OSINTion | OSINT Courses](https://www.osintion.com/)
+- [Bellingcat | OSINT Research Resources](https://www.bellingcat.com/resources/how-tos/)
+
+### Tools:
+- [theHarvester](https://github.com/laramies/theHarvester) - OSINT tool to gather emails, subdomains, hosts, and IPs.
+- [Maltego](https://www.maltego.com/) - Powerful data visualization tool for OSINT investigations.
+- [SpiderFoot](https://www.spiderfoot.net/) - An OSINT automation tool that collects data from multiple public sources.
+- [Shodan](https://www.shodan.io/) - A search engine for internet-connected devices used in OSINT to discover exposed systems.
+- [Recon-ng](https://github.com/lanmaster53/recon-ng) - Web reconnaissance framework designed with OSINT tasks in mind.
+- [Metagoofil](https://tools.kali.org/information-gathering/metagoofil) - A tool for extracting metadata from public documents.
+- [Twint](https://github.com/twintproject/twint) - Twitter scraping tool for gathering OSINT data from Twitter.
