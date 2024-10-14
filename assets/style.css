@@ -220,3 +220,18 @@ body {
         padding: 6px 15px;
     }
 }
+/* Media query for small devices */
+@media only screen and (max-width: 600px) {
+    .button-container {
+        flex-direction: column; /* Stack the buttons vertically on small screens */
+        width: 100%; /* Ensure the buttons stay within the viewport */
+        margin: 0 auto;
+    }
+
+    .learn-more-button {
+        width: 90%; /* Adjust the button width */
+        margin: 10px auto; /* Center the buttons and add margin between them */
+        padding: 10px;
+        font-size: 1rem; /* Slightly smaller text on smaller screens */
+    }
+}
