@@ -60,3 +60,74 @@ In Capture the Flag (CTF) competitions, case study challenges often require part
 ## Conclusion
 
 Real-world case studies are invaluable for cybersecurity professionals. By studying these incidents, you gain insight into vulnerabilities, response tactics, and the importance of implementing best security practices. Whether you are preparing for CTF competitions or improving your organization's security, learning from these examples will help you avoid repeating past mistakes and better defend against future threats.
+
+
+## Sources:
+
+---
+
+## THM Paths:
+## Case Studies
+
+---
+
+- [TryHackMe | Solar: Exploiting Log4j](https://tryhackme.com/room/solar)
+- [TryHackMe | WannaCry](https://tryhackme.com/room/wannacry)
+- [TryHackMe | Heartbleed](https://tryhackme.com/room/heartbleed)
+- [TryHackMe | NotPetya](https://tryhackme.com/room/notpetya)
+- [TryHackMe | Stuxnet](https://tryhackme.com/room/stuxnet)
+- [TryHackMe | Operation Aurora](https://tryhackme.com/room/operationaurora)
+- [TryHackMe | BlueKeep](https://tryhackme.com/room/bluekeep)
+- [TryHackMe | Dirty Cow](https://tryhackme.com/room/dirtycow)
+
+---
+
+### External Guides:
+
+- [SANS Reading Room - Case Studies](https://www.sans.org/white-papers/)  
+   Offers a wide range of case studies on real-world cyber incidents.
+
+- [MITRE ATT&CK Case Studies](https://attack.mitre.org/casestudies/)  
+   Provides case studies on various attack techniques based on real-world incidents and threat actor behaviors.
+
+- [CISA Case Studies](https://www.cisa.gov/)  
+   CISA offers case studies on cyber threats and incident responses, focusing on critical infrastructure security.
+
+---
+
+### Tools for Case Studies:
+
+- [Splunk](https://www.splunk.com/)  
+   A powerful tool used for analyzing and visualizing log data, making it easier to investigate cyber incidents in case studies.
+
+- [Elasticsearch](https://www.elastic.co/)  
+   A search engine used for logging, analyzing, and managing big data sets for security monitoring.
+
+- [MISP (Malware Information Sharing Platform)](https://www.misp-project.org/)  
+   An open-source threat intelligence platform for sharing, storing, and correlating indicators of compromise from case studies and incidents.
+
+---
+
+### Online Tools for Investigations:
+
+- [Shodan](https://www.shodan.io/)  
+   A search engine for internet-connected devices, which can be used to explore vulnerabilities exposed by incidents similar to those in case studies.
+
+- [VirusTotal](https://www.virustotal.com/)  
+   An online platform for scanning files and URLs to detect malicious content, often mentioned in case studies related to malware and cyber attacks.
+
+- [Hybrid Analysis](https://www.hybrid-analysis.com/)  
+   An online malware analysis platform used in case studies for understanding the behavior of malware samples.
+
+---
+
+### Websites to Learn from Case Studies:
+
+- [FireEye Case Studies](https://www.fireeye.com/current-threats/case-studies.html)  
+   FireEye provides detailed case studies on cyber incidents, including APT groups and malware outbreaks.
+
+- [SANS Case Studies](https://www.sans.org/case-studies/)  
+   Offers in-depth case studies on specific attacks, incident responses, and lessons learned.
+
+- [CISO Case Studies](https://www.cisoplatform.com/)  
+   CISO provides a range of case studies on incidents across industries, focusing on security solutions and attack mitigation strategies.

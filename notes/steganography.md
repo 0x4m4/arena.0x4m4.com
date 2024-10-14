@@ -87,11 +87,57 @@ To dive deeper into steganography, check out the following resources:
 
 
 ## Sources:
+
 ---
 
+### TryHackMe Paths:
 - [TryHackMe | CC: Steganography](https://tryhackme.com/room/ccstego)
 - [TryHackMe | Cicada-3301 Vol:1](https://tryhackme.com/room/cicada3301vol1)
 - [TryHackMe | Musical Stego](https://tryhackme.com/room/musicalstego)
 - [TryHackMe | Madness](https://tryhackme.com/room/madness)
 - [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak)
 - [TryHackMe | Unstable Twin](https://tryhackme.com/room/unstabletwin)
+
+---
+
+### Platforms for Learning Steganography:
+
+- [OverTheWire | Steganography Challenges](http://overthewire.org/wargames/)  
+  OverTheWire offers various wargames that include steganography challenges, perfect for hands-on learning.
+
+- [Root Me | Steganography](https://www.root-me.org/?lang=en)  
+  Root Me offers multiple steganography challenges with varying difficulty levels to help you develop practical skills.
+
+- [Hack The Box | Steganography Challenges](https://www.hackthebox.com/)  
+  Hack The Box includes several steganography-related challenges to test your ability to uncover hidden information.
+
+- [Cryptohack | Steganography](https://cryptohack.org/)  
+  Cryptohack offers challenges related to steganography alongside cryptography-based puzzles.
+
+---
+
+### Tools for Steganography:
+
+- [Steghide](https://github.com/StefanoDeVuono/steghide)  
+  A tool used for hiding data in image and audio files. Steghide can also extract hidden data from stego images or files.
+
+- [zsteg](https://github.com/zed-0xff/zsteg)  
+  A steganography detection tool for PNG and BMP images that is used to find hidden data within these file types.
+
+- [Stegsolve](https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve)  
+  A powerful Java-based tool used for analyzing and extracting hidden data from image files. It allows for LSB analysis and other image manipulations.
+
+- [OpenStego](http://www.openstego.com/)  
+  An open-source steganography tool that provides both hiding and extracting data, supporting encrypted stego files.
+
+- [Outguess](https://github.com/resurrecting-open-source-projects/outguess)  
+  A universal steganography tool that allows for the extraction and embedding of hidden data in image files.
+
+- [StegoSuite](https://stegosuite.org/)  
+  A steganography tool with a user-friendly interface that can hide and reveal hidden data within images.
+
+- [SilentEye](https://github.com/achorein/SilentEye)  
+  SilentEye is a cross-platform application for hiding messages in images and audio files. It also supports encryption.
+
+- [Binwalk](https://github.com/ReFirmLabs/binwalk)  
+  A tool used to analyze and extract hidden data within files, such as embedded firmware, file systems, and images.

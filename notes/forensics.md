@@ -98,6 +98,10 @@ To further enhance your digital forensics skills, here are some useful resources
 - **Practice**: Use platforms like TryHackMe and Hack The Box to practice digital forensics in real-world scenarios.
 
 
+## Sources:
+
+---
+
 ## THM Paths:
 ## Forensics
 
@@ -120,3 +124,99 @@ To further enhance your digital forensics skills, here are some useful resources
 - [TryHackMe | Mobile Malware Analysis](https://tryhackme.com/room/mma)
 - [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
 - [TryHackMe | Dunkle Materie](https://tryhackme.com/room/dunklematerieptxc9)
+
+---
+
+## Tools for Forensics:
+
+1. **Autopsy**  
+   - [Autopsy](https://www.sleuthkit.org/autopsy/)  
+   A powerful, open-source digital forensics tool for analyzing disk images, recovering files, and gathering evidence from data storage devices.
+   
+2. **Volatility**  
+   - [Volatility](https://www.volatilityfoundation.org/)  
+   An advanced memory forensics framework, commonly used for analyzing RAM dumps to uncover artifacts left behind in volatile memory.
+
+3. **Wireshark**  
+   - [Wireshark](https://www.wireshark.org/)  
+   A network traffic analysis tool, essential for investigating network-based attacks and analyzing captured packets.
+
+4. **FTK Imager**  
+   - [FTK Imager](https://accessdata.com/product-download/ftk-imager)  
+   A digital forensics acquisition tool used to capture disk images and analyze them for forensic artifacts.
+
+5. **Binwalk**  
+   - [Binwalk](https://github.com/ReFirmLabs/binwalk)  
+   A tool for analyzing, extracting, and reverse-engineering firmware images and file systems often used in embedded devices.
+
+6. **ExifTool**  
+   - [ExifTool](https://exiftool.org/)  
+   A command-line tool used to read and edit metadata in images, videos, and documents, essential for investigating hidden information in files.
+
+7. **Bulk Extractor**  
+   - [Bulk Extractor](https://digitalcorpora.org/downloads/bulk_extractor/)  
+   A forensics tool used to extract useful information like URLs, email addresses, and other data from disk images, network packet captures, and other sources.
+
+8. **Redline**  
+   - [Redline](https://www.mandiant.com/resources/download/redline)  
+   A free tool by Mandiant for endpoint memory and file analysis, primarily focused on detecting malicious activity and collecting memory artifacts.
+
+9. **Sleuth Kit**  
+   - [Sleuth Kit](https://www.sleuthkit.org/)  
+   A collection of command-line tools used to analyze disk images and recover deleted files or extract data from corrupted systems.
+
+10. **Caine**  
+   - [Caine](https://www.caine-live.net/)  
+   A Linux distribution that includes a wide range of forensics tools for analyzing systems, network traffic, and digital evidence.
+
+---
+
+## Online Tools:
+
+1. **VirusTotal**  
+   - [VirusTotal](https://www.virustotal.com/)  
+   An online service that analyzes files and URLs to detect viruses, malware, and other threats by scanning with multiple antivirus engines.
+
+2. **Hybrid Analysis**  
+   - [Hybrid Analysis](https://www.hybrid-analysis.com/)  
+   A malware analysis platform that provides detailed reports on files and URLs, offering insight into potential malicious behavior.
+
+3. **Magnet Forensics**  
+   - [Magnet Forensics](https://www.magnetforensics.com/)  
+   Offers advanced tools for investigating digital evidence from computers, mobile devices, and cloud services.
+
+4. **Rekall**  
+   - [Rekall](http://www.rekall-forensic.com/)  
+   A memory forensics framework that can analyze RAM dumps and extract data about running processes, network connections, and more.
+
+---
+
+## Websites to Learn Forensics:
+
+1. **DFIR Training**  
+   - [DFIR Training](https://www.dfir.training/)  
+   Provides various resources, guides, and training modules related to digital forensics and incident response (DFIR).
+
+2. **SANS Institute**  
+   - [SANS Institute Digital Forensics](https://www.sans.org/cyber-security-courses/digital-forensics-incident-response-training/)  
+   Offers comprehensive training programs for digital forensics and incident response with hands-on labs and practical cases.
+
+3. **ForensicsWiki**  
+   - [ForensicsWiki](https://forensicswiki.xyz/)  
+   A collaborative space for sharing forensic tools, techniques, and case studies related to various aspects of digital forensics.
+
+4. **Magnet Forensics Academy**  
+   - [Magnet Forensics Academy](https://www.magnetforensics.com/forensics-training/)  
+   Free and paid courses for learning digital forensics, covering topics like mobile forensics, disk analysis, and memory forensics.
+
+5. **Udemy - Digital Forensics Courses**  
+   - [Udemy - Digital Forensics](https://www.udemy.com/topic/digital-forensics/)  
+   Udemy offers multiple courses focused on forensics investigation, covering tools like Autopsy, FTK, and other practical case studies.
+
+6. **Cybrary - Digital Forensics & Incident Response (DFIR)**  
+   - [Cybrary DFIR](https://www.cybrary.it/catalog/forensics/)  
+   Offers both free and premium courses focusing on the various aspects of digital forensics, including memory and disk analysis.
+
+7. **Certifications - GIAC Certified Forensic Examiner (GCFE)**  
+   - [GIAC GCFE](https://www.giac.org/certification/certified-forensic-examiner-gcfe)  
+   A certification for professionals who want to specialize in forensic investigation, primarily focusing on data from Windows systems.

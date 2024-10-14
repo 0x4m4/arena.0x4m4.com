@@ -97,19 +97,66 @@ Here are some resources to help you master reverse engineering:
 - **Online Courses**: Platforms like Cybrary, Udemy, and Coursera offer courses in reverse engineering and malware analysis.
 - **Practice**: Use platforms like Hack The Box and TryHackMe to practice reverse engineering in real-world scenarios.
 
-## THM Paths:
-## Reverse Engineering
+## Sources:
 
 ---
 
+### TryHackMe Paths:
 - [TryHackMe | Intro to x86-64](https://tryhackme.com/room/introtox8664)
 - [TryHackMe | Windows x64 Assembly](https://tryhackme.com/room/win64assembly)
 - [TryHackMe | Reverse Engineering](https://tryhackme.com/room/reverseengineering)
 - [TryHackMe | Reversing ELF](https://tryhackme.com/room/reverselfiles)
 - [TryHackMe | JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering)
-- https://tryhackme.com/room/ccradare
+- [TryHackMe | CC: Radare](https://tryhackme.com/room/ccradare)
 - [TryHackMe | CC: Radare2](https://tryhackme.com/room/ccradare2)
 - [TryHackMe | CC: Ghidra](https://tryhackme.com/room/ccghidra)
 - [TryHackMe | Aster](https://tryhackme.com/room/aster)
 - [TryHackMe | Classic Passwd](https://tryhackme.com/room/classicpasswd)
 - [TryHackMe | REloaded](https://tryhackme.com/room/reloaded)
+
+---
+
+### Platforms for Learning Reverse Engineering:
+
+- [Hack The Box | Reversing Challenges](https://www.hackthebox.com/)  
+  Hack The Box offers a wide variety of reversing challenges designed to improve your skills in understanding and analyzing binaries.
+  
+- [Root Me | Reverse Engineering](https://www.root-me.org/?lang=en)  
+  Root Me provides various reverse engineering challenges with different levels of complexity.
+
+- [Reversing.kr](http://reversing.kr/)  
+  A classic platform with a variety of reverse engineering tasks focused on disassembling, decompiling, and breaking software.
+
+- [OverTheWire | Reverse Engineering](http://overthewire.org/wargames/)  
+  OverTheWire wargames include reverse engineering challenges that help you sharpen your skills in analyzing and debugging binaries.
+
+---
+
+### Tools for Reverse Engineering:
+
+- [Ghidra](https://ghidra-sre.org/)  
+  A powerful reverse engineering tool developed by the NSA. Ghidra is a comprehensive suite for analyzing binaries and provides decompilation, disassembly, and analysis features.
+
+- [Radare2](https://github.com/radareorg/radare2)  
+  A highly popular open-source framework for reverse engineering, with extensive support for analyzing binaries, debugging, and decompiling.
+
+- [IDA Pro](https://www.hex-rays.com/products/ida/)  
+  One of the most widely used disassembler tools in the reverse engineering community. IDA Pro supports disassembly, decompilation, and debugging.
+
+- [Binary Ninja](https://binary.ninja/)  
+  A modern reverse engineering platform that offers a user-friendly interface and powerful decompilation and analysis capabilities.
+
+- [x64dbg](https://x64dbg.com/)  
+  A free, open-source x64/x32 debugger for Windows applications. x64dbg is commonly used for reversing Windows executables.
+
+- [OllyDbg](http://www.ollydbg.de/)  
+  A classic Windows debugger for 32-bit binaries. OllyDbg is widely used in reverse engineering, particularly for analyzing malware and cracking software.
+
+- [Cutter](https://cutter.re/)  
+  An open-source GUI frontend for Radare2, designed to make the powerful features of Radare2 accessible in a user-friendly manner.
+
+- [angr](https://angr.io/)  
+  A platform-agnostic binary analysis framework that is capable of static, dynamic, symbolic, and concolic analysis. angr is popular in academic and advanced reverse engineering circles.
+
+- [Frida](https://frida.re/)  
+  A dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers. Frida is used for analyzing and modifying running processes.

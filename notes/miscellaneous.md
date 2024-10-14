@@ -93,14 +93,19 @@ Here are some resources to help you develop a broader skill set:
 - **Online Courses**: Platforms like Udemy, Coursera, and Cybrary offer courses on scripting, networking, and cybersecurity basics.
 - **Practice**: Use platforms like TryHackMe and Hack The Box to practice miscellaneous cybersecurity skills in real-world scenarios.
 
-## THM Paths:
+## Sources:
+
+---
+
 ## Android
 
 ---
 
 - [TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
 
-## Recon
+---
+
+## Recon (Reconnaissance)
 
 ---
 
@@ -115,6 +120,8 @@ Here are some resources to help you develop a broader skill set:
 - [TryHackMe | Red Team Recon](https://tryhackme.com/room/redteamrecon)
 - [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
 
+---
+
 ## Scripting
 
 ---
@@ -126,7 +133,8 @@ Here are some resources to help you develop a broader skill set:
 - [TryHackMe | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
 - [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
 - [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
-- [TryHackMe | Why Subscribe](https://tryhackme.com/room/yara)
+
+---
 
 ## Networking
 
@@ -136,9 +144,11 @@ Here are some resources to help you develop a broader skill set:
 - [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 - [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
 - [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
-- [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
-- [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
+- [TryHackMe | HTTP in Detail](https://tryhackme.com/room/httpindetail)
+- [TryHackMe | DNS in Detail](https://tryhackme.com/room/dnsindetail)
 - [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
+
+---
 
 ## Wi-Fi Hacking
 
@@ -146,7 +156,9 @@ Here are some resources to help you develop a broader skill set:
 
 - [TryHackMe | Wifi Hacking 101](https://tryhackme.com/room/wifihacking101)
 
-## Misc
+---
+
+## Miscellaneous
 
 ---
 
@@ -159,7 +171,7 @@ Here are some resources to help you develop a broader skill set:
 - [TryHackMe | Geolocating Images](https://tryhackme.com/room/geolocatingimages)
 - [TryHackMe | Tor](https://tryhackme.com/room/torforbeginners)
 - [TryHackMe | tomghost](https://tryhackme.com/room/tomghost)
-- [TryHackMe | DLL HIJACKING](https://tryhackme.com/room/dllhijacking)
+- [TryHackMe | DLL Hijacking](https://tryhackme.com/room/dllhijacking)
 - [TryHackMe | Intro to IoT Pentesting](https://tryhackme.com/room/iotintro)
 - [TryHackMe | Attacking ICS Plant #1](https://tryhackme.com/room/attackingics1)
 - [TryHackMe | Attacking ICS Plant #2](https://tryhackme.com/room/attackingics2)
@@ -181,7 +193,7 @@ Here are some resources to help you develop a broader skill set:
 - [TryHackMe | REvil Corp](https://tryhackme.com/room/revilcorp)
 - [TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
 - [TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
-- [TryHackMe | Solar, exploiting log4j](https://tryhackme.com/room/solar)
+- [TryHackMe | Solar, Exploiting log4j](https://tryhackme.com/room/solar)
 - [TryHackMe | Conti](https://tryhackme.com/room/contiransomwarehgh)
 - [TryHackMe | Dirty Pipe: CVE-2022-0847](https://tryhackme.com/room/dirtypipe)
 - [TryHackMe | The find command](https://tryhackme.com/room/thefindcommand)

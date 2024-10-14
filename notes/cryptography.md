@@ -99,6 +99,10 @@ To dive deeper into cryptography, consider these resources:
 - **Courses**: Online platforms like Coursera, edX, and Udemy offer cryptography courses.
 - **Practice**: Use tools like Cryptool and OpenSSL to practice encryption and decryption.
 
+## Sources:
+
+---
+
 ## THM Paths:
 ## Crypto & Hashes
 
@@ -110,3 +114,31 @@ To dive deeper into cryptography, consider these resources:
 - [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf)
 - [TryHackMe | Brute It](https://tryhackme.com/room/bruteit)
 
+---
+
+### Tools for Cryptography:
+
+- [Hashcat](https://hashcat.net/hashcat/)
+- [John the Ripper](https://www.openwall.com/john/)
+- [CyberChef](https://gchq.github.io/CyberChef/)
+- [Gpg4win](https://www.gpg4win.org/)
+- [Hash Analyzer](https://hash.online-convert.com/)
+
+---
+
+### Online Tools:
+
+- [CrackStation](https://crackstation.net/)
+- [dCode](https://www.dcode.fr/)
+- [MD5 Decrypter](https://md5decrypt.net/)
+- [SHA1 Decrypter](https://sha1decrypter.com/)
+
+---
+
+### Websites to Learn Cryptography:
+
+- [Cryptohack](https://cryptohack.org/)
+- [OverTheWire | Krypton](https://overthewire.org/wargames/krypton/)
+- [Cybrary | Cryptography](https://www.cybrary.it/course/cryptography/)
+- [Coursera | Cryptography I](https://www.coursera.org/learn/crypto)
+- [Crackmes.one](https://crackmes.one/)

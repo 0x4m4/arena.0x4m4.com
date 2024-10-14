@@ -56,6 +56,10 @@ In CTF competitions, challenges often require participants to switch between att
 Mastering both attack and defence strategies is essential in cybersecurity. Whether you're participating in CTF competitions or working in a real-world environment, understanding both perspectives will make you a stronger cybersecurity professional.
 
 
+## Sources:
+
+---
+
 ## THM Paths:
 ## Windows
 
@@ -69,6 +73,8 @@ Mastering both attack and defence strategies is essential in cybersecurity. Whet
 - [TryHackMe | Anthem](https://tryhackme.com/room/anthem)
 - [TryHackMe | Blue](https://tryhackme.com/room/blue)
 
+---
+
 ## Active Directory
 
 ---
@@ -79,6 +85,8 @@ Mastering both attack and defence strategies is essential in cybersecurity. Whet
 - [TryHackMe | Enterprise](https://tryhackme.com/room/enterprise)
 - [TryHackMe | RazorBlack](https://tryhackme.com/room/raz0rblack)
 
+---
+
 ## PCAP Analysis
 
 ---
@@ -87,3 +95,72 @@ Mastering both attack and defence strategies is essential in cybersecurity. Whet
 - [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
 - [TryHackMe | CCT2019](https://tryhackme.com/room/cct2019)
 - [TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
+
+---
+
+### External Guides for Attack & Defense:
+
+- [SANS Penetration Testing Blog](https://pen-testing.sans.org/blog)  
+   In-depth articles and guides on penetration testing techniques, defense strategies, and more.
+
+- [MITRE ATT&CK Matrix](https://attack.mitre.org/)  
+   A framework of tactics and techniques used by attackers, helpful for both offensive and defensive strategies.
+
+- [FireEye Threat Research](https://www.fireeye.com/current-threats.html)  
+   A resource for understanding real-world attacks and the tactics used by adversaries.
+
+---
+
+### Tools for Attack & Defense:
+
+- **Kali Linux**  
+   - [Kali Linux](https://www.kali.org/)  
+     A popular penetration testing platform with pre-installed tools for offensive and defensive security.
+
+- **Wireshark**  
+   - [Wireshark](https://www.wireshark.org/)  
+     A network protocol analyzer used for monitoring and investigating network traffic.
+
+- **Splunk**  
+   - [Splunk](https://www.splunk.com/)  
+     A tool for monitoring, searching, analyzing, and visualizing data gathered from logs, used in both offense and defense.
+
+- **Responder**  
+   - [Responder](https://github.com/lgandx/Responder)  
+     A tool used for network attacks like NetBIOS Name Service (NBT-NS) poisoning, commonly used during red team engagements.
+
+- **Mimikatz**  
+   - [Mimikatz](https://github.com/gentilkiwi/mimikatz)  
+     A post-exploitation tool used to extract passwords, hashes, and other sensitive information from memory.
+
+---
+
+### Online Tools:
+
+- **VirusTotal**  
+   - [VirusTotal](https://www.virustotal.com/)  
+     A service for analyzing suspicious files and URLs for malware and threats, used in both attack and defense scenarios.
+
+- **Shodan**  
+   - [Shodan](https://www.shodan.io/)  
+     A search engine for discovering internet-connected devices, useful for both reconnaissance and defense.
+
+- **Hybrid Analysis**  
+   - [Hybrid Analysis](https://www.hybrid-analysis.com/)  
+     A malware analysis platform that provides insights into file behavior, often used for threat analysis.
+
+---
+
+### Websites to Learn Attack & Defense:
+
+- [Offensive Security](https://www.offensive-security.com/)  
+   Offers courses and certifications like OSCP, which focus on penetration testing and red team operations.
+
+- [Cybrary | Attack & Defense](https://www.cybrary.it/course/introduction-to-red-teaming/)  
+   Provides free and paid courses on both offensive (red teaming) and defensive (blue teaming) strategies.
+
+- [Hack The Box](https://www.hackthebox.com/)  
+   A platform with real-world challenges focusing on both attack (offensive) and defense (defensive) scenarios.
+
+- [SANS Blue Team Courses](https://www.sans.org/cyber-security-courses/security-operations-center-blue-team/)  
+   Offers detailed training on defensive security techniques, including incident response, threat hunting, and network defense.

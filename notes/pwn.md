@@ -107,30 +107,64 @@ To further enhance your PWN skills, here are some great resources:
 ## Pwn College:
 - [Pwn.College](https://pwn.college/)
 
-## THM Paths:
-## PrivEsc
+## Sources:
 
 ---
 
+### TryHackMe Paths:
+
+#### Privilege Escalation (PrivEsc)
 - [TryHackMe | Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
 - [TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
 - [TryHackMe | Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)
 - [TryHackMe | Windows PrivEsc](https://tryhackme.com/room/windows10privesc)
 - [TryHackMe | Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
-- [TryHackMe | Linux Agency](https://tryhackme.com/room/linuxagency)
 - [TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
 - [TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
-- [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
-- [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
-- [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
-- [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
-- [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
 
-## BufferOverflow
-
----
-
+#### Buffer Overflow
 - [TryHackMe | Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)
 - [TryHackMe | Gatekeeper](https://tryhackme.com/room/gatekeeper)
 - [TryHackMe | Chronicle](https://tryhackme.com/room/chronicle)
 - [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
+
+---
+
+### Platforms for Learning PWN (Binary Exploitation):
+
+- [Hack The Box | PWN Challenges](https://www.hackthebox.com/)  
+  Hack The Box offers a variety of binary exploitation challenges designed to help you practice PWN skills and exploit real-world vulnerabilities.
+  
+- [Root Me | PWN Challenges](https://www.root-me.org/?lang=en)  
+  Root Me provides multiple binary exploitation challenges, including buffer overflows, format string exploits, and more.
+
+- [picoCTF | Binary Exploitation](https://picoctf.org/)  
+  picoCTF offers beginner-friendly binary exploitation challenges, making it an excellent starting point for learning buffer overflows and other PWN techniques.
+
+---
+
+### Tools for PWN (Binary Exploitation):
+
+- [Pwntools](https://github.com/Gallopsled/pwntools)  
+  A CTF framework and exploit development library, Pwntools is one of the most popular tools used in binary exploitation.
+
+- [GDB (GNU Debugger)](https://www.gnu.org/software/gdb/)  
+  A powerful debugger used to analyze programs at runtime. GDB is often paired with **GEF** or **Pwndbg** for enhanced binary exploitation.
+
+- [Pwndbg](https://github.com/pwndbg/pwndbg)  
+  A GDB plugin designed to assist with exploitation. It provides many utilities for binary analysis and exploitation during live debugging.
+
+- [GEF (GDB Enhanced Features)](https://gef.readthedocs.io/en/master/)  
+  An alternative to Pwndbg, GEF is a GDB plugin that provides advanced features for analyzing binaries during debugging.
+
+- [ROPgadget](https://github.com/JonathanSalwan/ROPgadget)  
+  A tool that helps you search for Return-Oriented Programming (ROP) gadgets, which are essential for bypassing security mechanisms like DEP (Data Execution Prevention).
+
+- [Checksec](https://github.com/slimm609/checksec.sh)  
+  A shell script to check the security of binaries. It shows which protections (like ASLR, NX, etc.) are enabled for an executable.
+
+- [Binwalk](https://github.com/ReFirmLabs/binwalk)  
+  A tool for analyzing and extracting files from binary images, commonly used to inspect firmware or embedded device binaries.
+
+- [Radare2](https://github.com/radareorg/radare2)  
+  A powerful reverse engineering and binary exploitation tool for analyzing, modifying, and debugging binaries.
